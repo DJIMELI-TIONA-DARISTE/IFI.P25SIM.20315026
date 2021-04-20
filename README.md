@@ -10,7 +10,7 @@
  
  #6.5=arrayCalculateSum
  
- #Il me reste actuellement deux programmes à remettre que je vais finaliser avant le délai(6.4 & 6.6)
+ #6.6=Matrices
 
 
 
